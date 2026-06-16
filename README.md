@@ -213,9 +213,11 @@ I'm currently exploring opportunities in **Data Analytics**, **Product Analytics
 and **Business Intelligence**.
 If you're building data-driven products and need someone who connects technical
 execution to business impact — let's talk.
--   Email: sasiofficial022@gmail.com
--   LinkedIn: https://www.linkedin.com/in/sasikumar806/
--   Portfolio: https://sasi-dev-portfolio.vercel.app/
+
+- n Email: sasiofficial022@gmail.com
+- n LinkedIn: https://www.linkedin.com/in/sasikumar806/
+- n Portfolio: https://sasi-dev-portfolio.vercel.app/
+-
 ---
 ##  License
 This project is licensed under the MIT License — feel free to use, modify, and
