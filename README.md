@@ -26,7 +26,7 @@ healthy.
 **The Challenge:** Build a dashboard that doesn't just *report* numbers — it
 connects KPIs to causal insights and recommended actions.
 ---
-##  What I Learned
+ What I Learned
 ### 1. Data Storytelling > Data Visualization
 A beautiful chart means nothing without context. Every metric on this dashboard
 connects to:
@@ -68,7 +68,7 @@ of renewal risk.
 
 
 ---
-##  Key Insights & Solutions
+  Key Insights & Solutions
 ###  Insight 1: Silent Churn Crisis
 **The Paradox:** NRR of 124.3% looks healthy, but 28.5% of accounts show zero
 logins for 60+ days.
@@ -113,7 +113,7 @@ flat — users confused, not angry (yet).
 **Expected Impact:** -40% support cost, prevent projected churn spike
 
 ---
-##  How to Run Locally
+  How to Run Locally
 ### Prerequisites
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
 - No build tools, no dependencies, no installation
@@ -128,7 +128,7 @@ open index.html
 ```
 That's it. The dashboard loads instantly with all charts rendered client-side.
 ---
-##  Project Structure
+ Project Structure
 ```
 saas-kpi-dashboard/
 n
@@ -142,7 +142,7 @@ nnn data/ # (Optional) Data files for API integration
 nnn kpi_data.json
 ```
 ---
-##  Key Metrics at a Glance
+  Key Metrics at a Glance
 | Metric | Value | Trend | Status |
 |--------|-------|-------|--------|
 | Monthly Recurring Revenue | $4.03M | ↑ +18% MoM |  Healthy |
@@ -154,7 +154,7 @@ nnn kpi_data.json
 | Support Tickets / $100K | 12.1 | ↑ +25% |  Alert |
 | Silent Churn Rate | 28.5% | ↑ +12pp |  Critical |
 ---
-##  Formulas Used
+  Formulas Used
 ### Net Revenue Retention (NRR)
 ```
 NRR = [(Starting MRR + Expansion MRR - Contraction MRR - Churned MRR) / Starting
@@ -178,7 +178,7 @@ PQL Rate = (Number of PQLs / Total Free/Trial Users) × 100
 TTV = Timestamp of First Value Moment - Timestamp of Account Creation
 ```
 ---
-##  What Makes This Different
+  What Makes This Different
 | Typical Dashboard | This Dashboard |
 |-------------------|----------------|
 | Reports what happened | Explains **why** it happened |
@@ -187,7 +187,7 @@ TTV = Timestamp of First Value Moment - Timestamp of Account Creation
 | Tool-dependent | Built from scratch — full ownership |
 | One-size-fits-all | Custom UX for executive decision-making |
 ---
-##  Why HTML/Chart.js Instead of Power BI?
+  Why HTML/Chart.js Instead of Power BI?
 **Short answer:** I can use Power BI. I chose to build from scratch to prove deeper
 capabilities.
 **Long answer:**
@@ -200,7 +200,7 @@ operation
 > *"Knowing how to build visualizations from scratch makes me better at pushing
 Power BI beyond its default templates."*
 ---
-##  Future Enhancements
+ Future Enhancements
 - [ ] Connect to live API for real-time data updates
 - [ ] Add user authentication and role-based views
 - [ ] Implement filter controls (date range, segment, plan tier)
@@ -208,16 +208,16 @@ Power BI beyond its default templates."*
 - [ ] Dark/light theme toggle
 - [ ] Add predictive churn model with ML
 ---
-##  Contact
+  Contact
 I'm currently exploring opportunities in **Data Analytics**, **Product Analytics**,
 and **Business Intelligence**.
 If you're building data-driven products and need someone who connects technical
 execution to business impact — let's talk.
 
-- n Email: sasiofficial022@gmail.com
-- n LinkedIn: https://www.linkedin.com/in/sasikumar806/
-- n Portfolio: https://sasi-dev-portfolio.vercel.app/
--
+-  Email: sasiofficial022@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/sasikumar806/
+-  Portfolio: https://sasi-dev-portfolio.vercel.app/
+
 ---
 ##  License
 This project is licensed under the MIT License — feel free to use, modify, and
