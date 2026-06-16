@@ -1,0 +1,6 @@
+action_id,insight,hypothesis,experiment,owner,expected_impact,status,priority,start_date,target_date,progress_pct
+ACT-001,Silent Churn 28.5%,Day-45 intervention reduces churn by 40%,Re-engagement campaign for 60+ day inactive accounts,Customer Success,$680K ARR saved,In Progress,Critical,2026-06-01,2026-07-15,35
+ACT-002,Feature Discovery Gap,Forced multi-feature onboarding increases 4+ feature adoption by 50%,Redesign onboarding with Feature #3 mandatory walkthrough,Product,+25% Expansion Revenue,Planned,High,2026-07-01,2026-08-15,0
+ACT-003,UI Confusion Spike,Contextual in-app guidance reduces confusion tickets by 60%,Add tooltips + task completion checklists for redesigned features,Design + Support,-40% Support Cost,Urgent,Critical,2026-06-10,2026-06-30,15
+ACT-004,Sales Cycle Efficiency,Self-serve demo reduces enterprise cycle by 30%,Launch interactive product demo for enterprise prospects,Sales,-12 days Avg Cycle,Completed,Medium,2026-04-01,2026-05-30,100
+ACT-005,Enterprise TTV Slow,Dedicated onboarding CSM reduces Enterprise TTV to <3 days,Assign CSM to all Enterprise trials within 24 hours,Customer Success,+15% Enterprise Conversion,In Progress,High,2026-05-15,2026-07-01,60

@@ -1,0 +1,9 @@
+feature_name,adoption_rate,expansion_correlation,ttv_days,monthly_active_users,feature_category
+Messaging,95,1.0,0.5,11361,Core
+File Sharing,82,1.2,1.2,9828,Core
+Integrations,45,2.8,5.5,5375,Advanced
+Automation,38,3.1,7.2,4564,Advanced
+Analytics,28,2.5,8.5,3475,Advanced
+Admin Controls,65,1.5,3.0,7706,Enterprise
+API Access,22,3.5,12.0,2674,Enterprise
+SSO,35,2.2,6.5,4119,Enterprise
